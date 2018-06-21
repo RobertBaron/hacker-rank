@@ -14,29 +14,92 @@
       <file leaf-file-name="sorting.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day-20-sorting/sorting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <marker date="1529543126964" expanded="true" signature="180:206" ph="{...}" />
+                <marker date="1529543126964" expanded="true" signature="246:306" ph="{...}" />
+                <marker date="1529543126964" expanded="true" signature="330:382" ph="{...}" />
+                <marker date="1529543126964" expanded="true" signature="461:1264" ph="{...}" />
+                <marker date="1529543126964" expanded="true" signature="606:1113" ph="{...}" />
+                <marker date="1529543126964" expanded="true" signature="737:988" ph="{...}" />
+                <marker date="1529543126964" expanded="true" signature="830:982" ph="{...}" />
+                <marker date="1529543126964" expanded="true" signature="1089:1109" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="more-linked-list.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-24-more-linked-list/more-linked-list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <marker date="1529543555845" expanded="true" signature="180:206" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="246:306" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="329:381" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="401:440" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="460:1645" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="503:945" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="572:923" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="649:866" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="709:811" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="817:858" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="986:1192" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1051:1087" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1124:1171" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1226:1493" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1272:1293" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1322:1348" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1357:1471" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1410:1445" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1525:1642" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1563:1638" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1661:1896" ph="{...}" />
+                <marker date="1529543555845" expanded="true" signature="1757:1832" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nested-logic.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day-26-nested-logic/nested-logic.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="more-linked-list.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day-24-more-linked-list/more-linked-list.js">
+      <file leaf-file-name="hello-world.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day-0-hello-world/hello-world.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1529543126960" expanded="true" signature="34:233" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bob</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>hasToReturn</replace>
+    </replaceStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/day-24-more-linked-list/more-linked-list.js" />
+        <option value="$PROJECT_DIR$/day-26-nested-logic/nested-logic.js" />
       </list>
     </option>
   </component>
@@ -110,7 +173,27 @@
             <path>
               <item name="30-days-of-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="30-days-of-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day-0-hello-world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30-days-of-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day-19-interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30-days-of-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day-20-sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30-days-of-code" type="462c0819:PsiDirectoryNode" />
               <item name="day-24-more-linked-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="30-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="30-days-of-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day-26-nested-logic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,18 +306,68 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day-0-hello-world/hello-world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1529543126960" expanded="true" signature="34:233" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day-20-sorting/sorting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="189">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <marker date="1529543126964" expanded="true" signature="180:206" ph="{...}" />
+            <marker date="1529543126964" expanded="true" signature="246:306" ph="{...}" />
+            <marker date="1529543126964" expanded="true" signature="330:382" ph="{...}" />
+            <marker date="1529543126964" expanded="true" signature="461:1264" ph="{...}" />
+            <marker date="1529543126964" expanded="true" signature="606:1113" ph="{...}" />
+            <marker date="1529543126964" expanded="true" signature="737:988" ph="{...}" />
+            <marker date="1529543126964" expanded="true" signature="830:982" ph="{...}" />
+            <marker date="1529543126964" expanded="true" signature="1089:1109" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day-24-more-linked-list/more-linked-list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <marker date="1529543555845" expanded="true" signature="180:206" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="246:306" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="329:381" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="401:440" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="460:1645" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="503:945" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="572:923" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="649:866" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="709:811" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="817:858" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="986:1192" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1051:1087" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1124:1171" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1226:1493" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1272:1293" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1322:1348" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1357:1471" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1410:1445" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1525:1642" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1563:1638" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1661:1896" ph="{...}" />
+            <marker date="1529543555845" expanded="true" signature="1757:1832" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day-26-nested-logic/nested-logic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding />
         </state>
       </provider>
